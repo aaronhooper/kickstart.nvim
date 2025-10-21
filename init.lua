@@ -84,6 +84,9 @@ vim.o.wrap = false
 -- Highlight max chars per line
 -- vim.o.colorcolumn = '120'
 
+-- Relative line numbers
+vim.o.relativenumber = true
+
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
 
